@@ -1,0 +1,79 @@
+{
+  "Report_Entry": [
+    {
+      "Emp_ID": "E440001",
+      "Username": "workdayjs",
+      "First_Name": "Julia",
+      "Last_Name": "Stone",
+      "Email": "julia.stone@workday.com",
+      "Employee_Type": "Employee",
+      "Hire_Date": "2025-06-10",
+      "Job_Title": "Software Engineer",
+      "Department": "IT",
+      "Location": "Seattle",
+      "Manager_ID": "E000901",
+      "Termination_Date": "",
+      "IsActive": "true"
+    },
+    {
+      "Emp_ID": "E440002",
+      "Username": "workdayrm",
+      "First_Name": "Raj",
+      "Last_Name": "Mehta",
+      "Email": "raj.mehta@workday.com",
+      "Employee_Type": "Employee",
+      "Hire_Date": "2024-12-01",
+      "Job_Title": "HR Specialist",
+      "Department": "HR",
+      "Location": "Mumbai",
+      "Manager_ID": "E000902",
+      "Termination_Date": "",
+      "IsActive": "true"
+    },
+    {
+      "Emp_ID": "E440003",
+      "Username": "workdayel",
+      "First_Name": "Emma",
+      "Last_Name": "Lindgren",
+      "Email": "emma.lindgren@workday.com",
+      "Employee_Type": "Employee",
+      "Hire_Date": "2025-01-25",
+      "Job_Title": "Financial Analyst",
+      "Department": "Finance",
+      "Location": "Copenhagen",
+      "Manager_ID": "E000903",
+      "Termination_Date": "",
+      "IsActive": "true"
+    },
+    {
+      "Emp_ID": "E440004",
+      "Username": "workdaytk",
+      "First_Name": "Tomas",
+      "Last_Name": "Kowalski",
+      "Email": "tomas.kowalski@workday.com",
+      "Employee_Type": "Employee",
+      "Hire_Date": "2025-03-15",
+      "Job_Title": "Marketing Executive",
+      "Department": "Marketing",
+      "Location": "Warsaw",
+      "Manager_ID": "E000904",
+      "Termination_Date": "",
+      "IsActive": "true"
+    },
+    {
+      "Emp_ID": "E440005",
+      "Username": "workdayah",
+      "First_Name": "Amira",
+      "Last_Name": "Hassan",
+      "Email": "amira.hassan@workday.com",
+      "Employee_Type": "Employee",
+      "Hire_Date": "2024-10-18",
+      "Job_Title": "Operations Coordinator",
+      "Department": "Operations",
+      "Location": "Dubai",
+      "Manager_ID": "E000905",
+      "Termination_Date": "",
+      "IsActive": "true"
+    }
+  ]
+}
