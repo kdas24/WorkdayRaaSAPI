@@ -1,0 +1,74 @@
+{
+  "Report_Entry": [
+    {
+      "Emp_ID": "N440001",
+      "Username": "workdaydk",
+      "First_Name": "Daniel",
+      "Last_Name": "Kim",
+      "Email": "daniel.kim@workday.com",
+      "Employee_Type": "Contractor",
+      "Hire_Date": "2025-05-05",
+      "Termination_Date": "2025-11-20",
+      "Manager_ID": "E000921",
+      "Department": "IT",
+      "Location": "Seoul",
+      "Job_Title": "IT Support Contractor"
+    },
+    {
+      "Emp_ID": "N440002",
+      "Username": "workdayls",
+      "First_Name": "Laura",
+      "Last_Name": "Schmidt",
+      "Email": "laura.schmidt@workday.com",
+      "Employee_Type": "Contractor",
+      "Hire_Date": "2025-02-22",
+      "Termination_Date": "2025-09-30",
+      "Manager_ID": "E000922",
+      "Department": "HR",
+      "Location": "Berlin",
+      "Job_Title": "Recruitment Coordinator"
+    },
+    {
+      "Emp_ID": "N440003",
+      "Username": "workdayoc",
+      "First_Name": "Omar",
+      "Last_Name": "Castillo",
+      "Email": "omar.castillo@workday.com",
+      "Employee_Type": "Contractor",
+      "Hire_Date": "2025-04-01",
+      "Termination_Date": "2025-12-10",
+      "Manager_ID": "E000923",
+      "Department": "Finance",
+      "Location": "Mexico City",
+      "Job_Title": "Accounts Payable Associate"
+    },
+    {
+      "Emp_ID": "N440004",
+      "Username": "workdaymp",
+      "First_Name": "Marie",
+      "Last_Name": "Petit",
+      "Email": "marie.petit@workday.com",
+      "Employee_Type": "Contractor",
+      "Hire_Date": "2025-06-12",
+      "Termination_Date": "2025-12-28",
+      "Manager_ID": "E000924",
+      "Department": "Marketing",
+      "Location": "Lyon",
+      "Job_Title": "Content Creator"
+    },
+    {
+      "Emp_ID": "N440005",
+      "Username": "workdayvf",
+      "First_Name": "Victor",
+      "Last_Name": "Fernandez",
+      "Email": "victor.fernandez@workday.com",
+      "Employee_Type": "Contractor",
+      "Hire_Date": "2025-07-08",
+      "Termination_Date": "2026-01-15",
+      "Manager_ID": "E000925",
+      "Department": "Operations",
+      "Location": "Madrid",
+      "Job_Title": "Operations Assistant"
+    }
+  ]
+}
